@@ -79,4 +79,3 @@ plot(tplot(1:tsim*f),   -Fd(1:tsim*f), 'b')
 ylabel('Drag (kgm/s?2)')
 xlabel('Tempo (s)')
 
-
